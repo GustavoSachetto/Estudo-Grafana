@@ -1,0 +1,4 @@
+-------------------------------------------------------------------------------
+Test set: com.sachetto.grafana.GrafanaApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 0, Skipped: 0, Time elapsed: 3.076 s -- in com.sachetto.grafana.GrafanaApplicationTests
